@@ -1,5 +1,3 @@
----
-
 # Projects on Digital Logic Design using AI
 
 This repository contains digital logic design implementations where **Artificial Intelligence (AI)** was utilized to assist in the generation, optimization, or verification of Hardware Description Language (HDL) code. The project focuses on bridging the gap between traditional logic design and AI-assisted engineering.
