@@ -8,7 +8,7 @@ This repository contains all AI-generated notebooks and HDL files for the course
 - `/colab` → Google Colab notebooks (`.ipynb`)
 - `/hdl` → Verilog/VHDL design files
 - `/docs` → Documentation and diagrams
-# AI for Digital Logic Design (DLD) - Udemy Course
+# AI for Digital Logic Design (DLD)
 
 Welcome to the official repository for the **AI for Digital Logic Design** course! This project demonstrates how modern AI tools and machine learning techniques can be integrated with hardware description languages (HDL) like **Verilog** and **VHDL** to streamline digital design, verification, and synthesis.
 
